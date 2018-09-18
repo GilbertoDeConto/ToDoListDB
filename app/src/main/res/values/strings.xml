@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="tarefa">Tarefa: </string>
+    <string name="prioridade">Prioridade: </string>
+    <string name="baixa">Baixa</string>
+
+    <string name="media">Media</string>
+    <string name="alta">Alta</string>
+    <string name="salvar">Salvar</string>
+    <string name="nova_tarefa">Nova Tarefa</string>
+</resources>
